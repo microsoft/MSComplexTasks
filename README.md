@@ -31,3 +31,15 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## Citing this Work
+
+If you use this dataset in your work please cite:
+
+```
+@InProceedings{zhang:2021:NAACL,
+  author    = {Zhang, Yi and Jauhar, Sujay K.  and  Kiseleva, Julia and White, Ryen and Roth, Dan},
+  title     = {Learning to Decompose and Organize Complex Tasks},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  year      = {2021},
+}
